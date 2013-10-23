@@ -1,5 +1,5 @@
 *.o
-*.so
+*.so*
 main1
 main2
 
